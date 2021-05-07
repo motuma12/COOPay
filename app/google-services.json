@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468742987025",
+    "firebase_url": "https://coopay-edacb-default-rtdb.firebaseio.com",
+    "project_id": "coopay-edacb",
+    "storage_bucket": "coopay-edacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468742987025:android:6b778ab5c102d1d77540b0",
+        "android_client_info": {
+          "package_name": "et.com.coopbankoromia.coopay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468742987025-dnuugddj1t87qc71blp26fda5a74i9d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMMKDlP1oZ-UoaxSosE7-0JlbCzgGlMbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468742987025-dnuugddj1t87qc71blp26fda5a74i9d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
